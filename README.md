@@ -3,6 +3,9 @@ Example Portfolio
 ``React`` | ``Tailwind CSS`` | ``Vite``
 <br>
 <br>
+[Live Demo](https://richard-kidd-portfolio.vercel.app/)]
+<br>
+<br>
 ![](richardKidd-1.jpg)
 ![](richardKidd-2.png)
 ![](richardKidd-3.jpg)
