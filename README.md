@@ -3,7 +3,7 @@ Example Portfolio
 ``React`` | ``Tailwind CSS`` | ``Vite``
 <br>
 <br>
-[Live Demo](https://richard-kidd-portfolio.vercel.app/)
+<a href="https://richard-kidd-portfolio.vercel.app" target="_blank">Live Demo</a>
 <br>
 <br>
 ![](richardKidd-1.jpg)
