@@ -4,6 +4,6 @@ Example Portfolio
 <br>
 <br>
 ![](richardKidd-1.jpg)
-![](richardKidd-2.jpg)
+![](richardKidd-2.png)
 ![](richardKidd-3.jpg)
 ![](richardKidd-4.jpg)
