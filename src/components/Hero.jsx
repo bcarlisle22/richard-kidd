@@ -1,8 +1,7 @@
 import React from 'react'
 import richardKidd from "../assets/richardKidd.jpg"
-import  {HERO_CONTENT}  from "../constants" // why isnt it uploading the content? pathway incorrect?
+import  {HERO_CONTENT}  from "../constants" 
 import { LuDownload } from "react-icons/lu";
-
 
 
 const Hero = () => {

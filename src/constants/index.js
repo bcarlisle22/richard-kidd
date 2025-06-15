@@ -1,14 +1,9 @@
 
-
 export const HERO_CONTENT = `I am a passionate software engineer with a knack for building robust and scalable applications.
 With 5 years of hands-on experience, I've developed a strong foundation in both front-end and back-end technologies, 
-including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. I thrive on solving complex problems and transforming 
-ideas into high-performing software that enhances user experiences and drives business success.`
+including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB.
+I thrive on solving real-world complex problems and transforming ideas into high-performing software that enhances user experiences and drives business success.`
 
-export const ABOUT_TEXT = `I'm a passionate and adaptable software engineer with 5 years of experience building scalable, 
-user-focused web applications. My expertise spans a wide range of technologies including React, Next.js, Node.js, MySQL, 
-PostgreSQL, and MongoDB. What began as a fascination with how things work has grown into a fulfilling career dedicated to 
-solving real-world problems through code.`
 
 export const EXPERIENCES = [
   {
@@ -37,38 +32,51 @@ export const EXPERIENCES = [
     role: "Software Engineer",
     company: "Paypal",
     description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
-    technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
+    technologies: ["Ruby", "Rails", "PHP", "SQLite"],
   },
 ];
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "E-Commerce Website - StyleCart",
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
+      "A fully responsive ecommerce platform built with React, Tailwind CSS, and Node.js. Users can browse products, filter by category, add items to a shopping cart, and securely check out. The admin dashboard includes product management and order tracking features. Stripe integration supports payment processing.",
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
   },
   {
-    title: "Task Management App",
+    title: "Task Management App - TaskNest",
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
+      "A productivity-focused web application for managing tasks and projects. Users can create boards, add tasks with due dates, assign priorities, and track progress using drag-and-drop functionality. Built with a focus on usability and performance",
     technologies: ["HTML", "CSS", "Angular", "Firebase"],
   },
   {
-    title: "Portfolio Website",
+    title: "Blogging Platform - DevNotes",
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
-  },
-  {
-    title: "Blogging Platform",
-    description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
+      "A full-stack blogging platform where users can register, write posts in a rich-text editor, and interact via comments. Includes a dashboard for managing drafts and published content. Emphasizes clean UI and fast load times.",
     technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
   },
+  {
+    title: "Real-Time Chat Application - ChatSphere",
+    description:
+      "A real-time chat application with user authentication, private messaging, and group chats. Built with WebSocket for instant communication and a modern UI for seamless user experience.",
+    technologies: ["HTML", "CSS", "React", "Node.js", "Socket.io"],
+  },
+  {
+    title: "Weather Dashboard - WeatherWise",
+    description:
+      "A weather dashboard that provides real-time weather updates and forecasts for any location. Users can search for cities and view current conditions, hourly forecasts, and 7-day predictions. Built with a focus on performance and user experience.",
+    technologies: ["HTML", "CSS", "React", "OpenWeatherMap API"],
+  },
+  {
+    title: "Fitness Tracker - FitTrack",
+    description:
+      "A web application for tracking workouts, nutrition, and progress. Users can log exercises, set fitness goals, and monitor their health metrics. Includes data visualization for performance tracking.",
+    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+  },
+  {
+    title: "Online Learning Platform - LearnHub",
+    description:
+      "An online learning platform that allows users to enroll in courses, track progress, and earn certificates. Features include video lectures, quizzes, and discussion forums. Built with a focus on scalability and user engagement.",
+    technologies: ["HTML", "CSS", "React", "Node.js", "PostgreSQL"],
+  },
 ];
-
-export const CONTACT = {
-  phoneNumber: "888-888-8888 ",
-  emailAddress: "deron@gmail.com",
-};
